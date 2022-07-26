@@ -4,7 +4,7 @@ In this project, I have tried to predict with the existing data whether the cust
 
 Dataset Information :
 So the dataset contains information like:
-
+link for the dataset : https://raw.githubusercontent.com/amankharwal/Website-data/master/onlinefoods.csv
 * The age of the customer
 * Marital status of the customer
 * Occupation of the customer
