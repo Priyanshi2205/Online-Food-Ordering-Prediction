@@ -3,7 +3,7 @@ This is a project which suggests the best model to predict in future that the cu
 In this project, I have tried to predict with the existing data whether the customer will order the food or not when they visit the website. 
 
 Dataset Information :
-So the dataset contains information like:
+
 link for the dataset : https://raw.githubusercontent.com/amankharwal/Website-data/master/onlinefoods.csv
 * The age of the customer
 * Marital status of the customer
