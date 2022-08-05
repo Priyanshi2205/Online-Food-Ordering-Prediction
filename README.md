@@ -1,4 +1,4 @@
-# Online-Food-Ordering-Prediction
+# Online-Food-Ordering-Prediction - Supervised Data
 This is a project which suggests the best model to predict in future that the customer arising on the website will order the food or not.
 In this project, I have tried to predict with the existing data whether the customer will order the food or not when they visit the website. 
 
